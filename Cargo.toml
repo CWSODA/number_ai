@@ -1,0 +1,9 @@
+[package]
+name = "number_ai"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+faer = "0.19.4"
+itertools = "0.13.0"
+rand = "0.8.5"
